@@ -333,5 +333,52 @@
         "content": "😂😂😂"
       }
     ]
+  },
+  {
+    "id": "sombong-deng-alkitab",
+    "title": "Sombong Deng Alkitab",
+    "date": "23 Juli 2026",
+    "content": [
+      {
+        "type": "narration",
+        "content": "Ada satu tete yang malam Minggu mabuk sampai pagi. Karena terlalu capek, de tidur di para-para."
+      },
+      {
+        "type": "narration",
+        "content": "Di waktu yang sama, nenek dengan de pu cucu berangkat pergi ke gereja. Nenek pegang Alkitab besar dari zaman Belanda di tangan kiri, baru tangan kanan gandeng cucu."
+      },
+      {
+        "type": "narration",
+        "content": "Pas dong lewat para-para, cucu lihat ada orang lagi tidur."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Cucu",
+        "content": "Nene, itu tete yang tidur to?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Nenek",
+        "content": "Iyo cucu."
+      },
+      {
+        "type": "narration",
+        "content": "Nenek rapat mendekat pelan-pelan ke tete de baru, berteriak ke tete pu telinga."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Nenek",
+        "content": "SLAMAT PAGI IBLIS!"
+      },
+      {
+        "type": "narration",
+        "content": "Tete buka mata sedikit, cuma lihat nenek dari ekor mata saja. Tete belum bangun, baru bilang."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Tete",
+        "content": "IYO... JALAN... SOMBONG DENGAN ALKITAB BESAR, HABIS TAU BACA JADI..."
+      }
+    ]
   }  
 ]
